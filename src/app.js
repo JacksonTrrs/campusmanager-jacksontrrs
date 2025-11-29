@@ -1,1 +1,1 @@
-function teste() { console.log("erro" }
+function teste() { console.log("erro"); }
