@@ -24,4 +24,4 @@ Durante o desenvolvimento deste repositório, foram executadas as seguintes miss
 - HTML5 / CSS3 / JavaScript (Simulação)
 
 ---
-Desenvolvido por **[SEU NOME AQUI]** 🚀
+Desenvolvido por **Jackson Torres** 🚀
